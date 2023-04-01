@@ -1,0 +1,6 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: 20px;
+  margin-bottom: 20px;
+}
