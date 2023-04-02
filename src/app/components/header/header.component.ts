@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
   title: string = 'ToDo List';
-  OnClick() {
+  toggleAddTask() {
     console.log('test')
   }
 }
